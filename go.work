@@ -1,0 +1,49 @@
+go 1.21.3
+
+use (
+	// ./gee-bolt/day1-pages
+	// ./gee-bolt/day2-mmap
+	// ./gee-bolt/day3-tree
+	// ./gee-cache/day1-lru/geecache
+	./gee-cache/day2-single-node/geecache
+	// ./gee-cache/day3-http-server
+	// ./gee-cache/day3-http-server/geecache
+	// ./gee-cache/day4-consistent-hash
+	// ./gee-cache/day4-consistent-hash/geecache
+	// ./gee-cache/day5-multi-nodes
+	// ./gee-cache/day5-multi-nodes/geecache
+	// ./gee-cache/day6-single-flight
+	// ./gee-cache/day6-single-flight/geecache
+	// ./gee-cache/day7-proto-buf
+	// ./gee-cache/day7-proto-buf/geecache
+	// ./gee-orm/day1-database-sql
+	// ./gee-orm/day2-reflect-schema
+	// ./gee-orm/day3-save-query
+	// ./gee-orm/day4-chain-operation
+	// ./gee-orm/day5-hooks
+	// ./gee-orm/day6-transaction
+	// ./gee-orm/day7-migrate
+	// ./gee-rpc/day1-codec
+	// ./gee-rpc/day2-client
+	// ./gee-rpc/day3-service
+	// ./gee-rpc/day4-timeout
+	// ./gee-rpc/day5-http-debug
+	// ./gee-rpc/day6-load-balance
+	// ./gee-rpc/day7-registry
+	// ./gee-web/day1-http-base/base1
+	// ./gee-web/day1-http-base/base2
+	// ./gee-web/day1-http-base/base3
+	// ./gee-web/day1-http-base/base3/gee
+	// ./gee-web/day2-context
+	// ./gee-web/day2-context/gee
+	// ./gee-web/day3-router
+	// ./gee-web/day3-router/gee
+	// ./gee-web/day4-group
+	// ./gee-web/day4-group/gee
+	// ./gee-web/day5-middleware
+	// ./gee-web/day5-middleware/gee
+	// ./gee-web/day6-template
+	// ./gee-web/day6-template/gee
+	// ./gee-web/day7-panic-recover
+	// ./gee-web/day7-panic-recover/gee
+)
